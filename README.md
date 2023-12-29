@@ -1,2 +1,1 @@
-# Python-project
-Contains many python projects
+# calculator by python 
